@@ -1,8 +1,3 @@
-# Retail Sales Analysis Project
-Here’s a polished and detailed `README.md` content for your **Retail Sales Analytics** project. This includes an introduction, skills demonstrated, tools used, and instructions for running the project:
-
----
-
 # Retail Sales Analytics: Driving Business Decisions with Data
 
 ## 1.0 Introduction
